@@ -8,7 +8,7 @@
     <link href="/2026/02/07/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <url>/2026/02/07/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     
-    <content type="html"><![CDATA[<p>这是我的第一篇 Hexo 博客正文！</p><h3 id="欢迎来到KING-2345的博客空间"><a href="#欢迎来到KING-2345的博客空间" class="headerlink" title="欢迎来到KING-2345的博客空间"></a>欢迎来到KING-2345的博客空间</h3><ul><li>进入学习空间</li><li>休息一下</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>这是我的第一篇 Hexo 博客正文！</p><h3 id="欢迎来到KING-2345的博客空间"><a href="#欢迎来到KING-2345的博客空间" class="headerlink" title="欢迎来到KING-2345的博客空间"></a>欢迎来到KING-2345的博客空间</h3><ul><li>进入学习空间<br>  创建hexo博客需要：<br>  1.先下载Git，要用到其中的gitbash<br>  2.在gitbash中设置gitbash的身份，即连接到自己github账号下<br>  3.在gitbash中下载hexo和Node.js<br>  4.在某个磁盘中创建文件夹来存放和操作你的博客(我用的D盘)<br>  5.在gitbash中用先进入D盘文件路径，后进入存放博客的文件夹(若没有则mkdir创建)<br>  6.在该博客文件夹路径下用hexo new “你的博客名”创建一个博客markdown文件<br>  7.在gitbash中用hexo clean &amp;&amp; hexo g &amp;&amp; hexo d 传输所有内容保存到github账号内部，即可通过你的github主仓库进入该博客中。<br>  8.该hexo博客是可以更换主题、主页元素等等的，每次修改相关文件都要在gitbash中传输保存才可以完成修改。</li><li>休息一下</li></ul>]]></content>
     
     
     
